@@ -1,6 +1,6 @@
 # Uncord - Modern Music Player & YouTube Downloader
 
-![Uncord Music Player](https://placehold.co/600x400/trasparent/black?font=ralaway&text=Uncord+Music+Player)
+![Uncord Music Player]([https://placehold.co/600x400/trasparent/black?font=ralaway&text=Uncord+Music+Player](https://placehold.co/600x400/trasparent/purple?font=ralaway&text=Uncord+Music+Player))
 
 ## [TR] Proje Hakkında
 **Uncord**, React 19 ve Vite ile geliştirilmiş, estetik ve yüksek performanslı bir web tabanlı müzik çalar ve YouTube indiricisidir. Dinamik görselleştiriciler (visualizer), gerçek zamanlı sohbet ve akıcı bir arayüz ile premium bir kullanıcı deneyimi sunar.
